@@ -1,0 +1,36 @@
+<section class="container py-5" id="ifoto">
+  <h2 class="text-center mb-5 font-weight-bold">Ifoto n’Amashusho</h2>
+  <div class="row">
+    
+    <!-- Image 1 -->
+    <div class="col-md-4 mb-4">
+      <div class="card border-0 shadow-sm h-100">
+        <div class="img-wrapper">
+          <img src="oo.jpg" alt="Umworozi w'umunyafurika" class="card-img-top rounded img-fluid">
+        </div>
+      </div>
+    </div>
+
+    <!-- Image 2 -->
+    <div class="col-md-4 mb-4">
+      <div class="card border-0 shadow-sm h-100">
+        <div class="img-wrapper">
+          <img src="ee.JPEG" alt="Inka ziri mu kiraro" class="card-img-top rounded img-fluid">
+        </div>
+      </div>
+    </div>
+
+    <!-- Video -->
+    <div class="col-md-4 mb-4">
+      <div class="card border-0 shadow-sm h-100">
+        <div class="video-wrapper">
+          <video class="rounded w-100" controls>
+            <source src="video.mp4" type="video/mp4">
+            Igikoresho cyawe ntigishyigikira amashusho.
+          </video>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
